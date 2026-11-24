@@ -1,0 +1,4 @@
+# Exclude Google Apps Script backend
+Back/
+*.gs
+appsscript.json
